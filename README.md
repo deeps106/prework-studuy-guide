@@ -21,7 +21,10 @@ N/A
 
 Snippets of useful information within each class of language. Use the chrome dev tools Windows (CTRL+Shift+I), macOS (Cmd + Shift + I) and then select consol eto chose which topic to study first from the list
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3761903b52303d02402eb382035602b7df3f2c18
 
 ## Credits
 
