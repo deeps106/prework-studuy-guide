@@ -21,7 +21,7 @@ N/A
 
 Snippets of useful information within each class of language. Use the chrome dev tools Windows (CTRL+Shift+I), macOS (Cmd + Shift + I) and then select consol eto chose which topic to study first from the list
 
-![alt text](assets/images/screenshot.png)
+
 
 ## Credits
 
@@ -29,6 +29,6 @@ N/A
 
 ## License
 
-MIT
+Refer to GitHub repo
 
 ---
