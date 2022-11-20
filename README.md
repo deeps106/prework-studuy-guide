@@ -28,6 +28,6 @@ N/A
 
 ## License
 
-Refer tp GitHub repo
+Refer to GitHub repo
 
 ---
